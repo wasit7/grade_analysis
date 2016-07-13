@@ -12,11 +12,14 @@ path.arc {
 }
 
 .node {
-  font-size: 10px;
+  font-size: 15px;
+  fill: #aaaaaa;
 }
 
 .node:hover {
-  fill: #1f77b4;
+  fill: #000000;
+  font-weight: bold;
+  font-size: 15px;
 }
 
 .link {
@@ -33,26 +36,32 @@ path.arc {
 
 .node.target {
   fill: #d62728 !important;
+  font-weight: bold;
+  font-size: 15px;
 }
 
 .link.source {
   stroke: #d62728;
+  stroke-width: 4px;
 }
 
 .node.source {
   fill: #2ca02c;
+  font-weight: bold;
+  font-size: 15px;
 }
 
 .link.target {
   stroke: #2ca02c;
+  stroke-width: 4px;
 }
 
     </style>
   </head>
   <body>
     <h2>
-      Flare imports<br>
-      hierarchical edge bundling
+      Dependency map<br>
+      Computer Science<br>Thammasat University
     </h2>
     <div style="position:absolute;bottom:0;font-size:18px;">tension: <input style="position:relative;top:3px;" type="range" min="0" max="100" value="85"></div>
     <script type="text/javascript" src="d3.js"></script>
@@ -105,7 +114,8 @@ d3.json("flare-imports.json", function(classes) {
   var nodes = cluster.nodes(packages.root(classes)),
       links = packages.imports(nodes),
       splines = bundle(links);
-
+      console.log(nodes);
+      console.log( packages.imports(nodes) );
   var path = svg.selectAll("path.link")
       .data(links)
     .enter().append("svg:path")

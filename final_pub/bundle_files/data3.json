@@ -1,0 +1,1009 @@
+[
+  {
+    "imports": [
+      "cstu.TU.TU154", 
+      "cstu.SC.SC135"
+    ], 
+    "name": "cstu.MA.MA211"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS102"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS101"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.TU.TU154"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS101"
+    ], 
+    "name": "cstu.TH.TH161"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS102"
+    ], 
+    "name": "cstu.CS.CS111"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS111", 
+      "cstu.CS.CS102", 
+      "cstu.MA.MA211"
+    ], 
+    "name": "cstu.CS.CS213"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.EL.EL171"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.SC.SC135"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.PY.PY228"
+  }, 
+  {
+    "imports": [
+      "cstu.EL.EL171"
+    ], 
+    "name": "cstu.EL.EL172"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.SC.SC185"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154", 
+      "cstu.SC.SC135"
+    ], 
+    "name": "cstu.TU.TU110"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS111", 
+      "cstu.MA.MA211", 
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.CS.CS223"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.TU.TU120"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.ST.ST216"
+  }, 
+  {
+    "imports": [
+      "cstu.SC.SC135", 
+      "cstu.MA.MA211", 
+      "cstu.CS.CS111"
+    ], 
+    "name": "cstu.CS.CS284"
+  }, 
+  {
+    "imports": [
+      "cstu.EL.EL171", 
+      "cstu.EL.EL172", 
+      "cstu.MA.MA211"
+    ], 
+    "name": "cstu.EL.EL295"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.TU.TU130"
+  }, 
+  {
+    "imports": [
+      "cstu.MA.MA211", 
+      "cstu.TU.TU154", 
+      "cstu.EL.EL171"
+    ], 
+    "name": "cstu.MA.MA212"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.MA.MA332"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS314"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS111", 
+      "cstu.TU.TU154", 
+      "cstu.MA.MA211"
+    ], 
+    "name": "cstu.CS.CS222"
+  }, 
+  {
+    "imports": [
+      "cstu.MA.MA211", 
+      "cstu.EL.EL171", 
+      "cstu.SC.SC135"
+    ], 
+    "name": "cstu.CS.CS214"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS261"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS223"
+    ], 
+    "name": "cstu.CS.CS251"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS284"
+    ], 
+    "name": "cstu.CS.CS281"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS341"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.EL.EL395"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS301"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS311"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS374"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS302"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS401"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS342"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS105"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.HO.HO201"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS395"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS402"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS365"
+  }, 
+  {
+    "imports": [
+      "cstu.PY.PY228"
+    ], 
+    "name": "cstu.EL.EL070"
+  }, 
+  {
+    "imports": [
+      "cstu.MA.MA211", 
+      "cstu.EL.EL171", 
+      "cstu.EL.EL172"
+    ], 
+    "name": "cstu.AT.AT326"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.TU.TU100"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS289"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS385"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154", 
+      "cstu.SC.SC135"
+    ], 
+    "name": "cstu.AT.AT316"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS326"
+  }, 
+  {
+    "imports": [
+      "cstu.SC.SC135", 
+      "cstu.EL.EL171"
+    ], 
+    "name": "cstu.TU.TU122"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS288"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS487"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS111", 
+      "cstu.MA.MA211", 
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.CS.CS211"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS489"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS102"
+    ], 
+    "name": "cstu.SC.SC123"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS102"
+    ], 
+    "name": "cstu.SC.SC173"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS296"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS486"
+    ], 
+    "name": "cstu.CS.CS488"
+  }, 
+  {
+    "imports": [
+      "cstu.EL.EL171", 
+      "cstu.CS.CS102", 
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.SW.SW111"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS367"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.SW.SW365"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS486"
+  }, 
+  {
+    "imports": [
+      "cstu.EL.EL171", 
+      "cstu.CS.CS102"
+    ], 
+    "name": "cstu.SW.SW212"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS409"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS102"
+    ], 
+    "name": "cstu.SW.SW221"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS102", 
+      "cstu.CS.CS111", 
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.CS.CS215"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS386"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS366"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS295"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS377"
+  }, 
+  {
+    "imports": [
+      "cstu.SC.SC135", 
+      "cstu.MA.MA211"
+    ], 
+    "name": "cstu.LA.LA209"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS456"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS467"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS111", 
+      "cstu.TU.TU110", 
+      "cstu.CS.CS102"
+    ], 
+    "name": "cstu.CS.CS300"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.SW.SW478"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS102", 
+      "cstu.TU.TU110"
+    ], 
+    "name": "cstu.SW.SW213"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154", 
+      "cstu.MA.MA211"
+    ], 
+    "name": "cstu.MW.MW314"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.BA.BA291"
+  }, 
+  {
+    "imports": [
+      "cstu.MW.MW313", 
+      "cstu.TH.TH161"
+    ], 
+    "name": "cstu.SW.SW475"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS295"
+    ], 
+    "name": "cstu.CS.CS396"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS427"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.ES.ES356"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS387"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS286"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS297"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS429"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS446"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS102", 
+      "cstu.CS.CS111"
+    ], 
+    "name": "cstu.SW.SW335"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS356"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS105", 
+      "cstu.MA.MA211"
+    ], 
+    "name": "cstu.HR.HR201"
+  }, 
+  {
+    "imports": [
+      "cstu.SW.SW335"
+    ], 
+    "name": "cstu.CS.CS459"
+  }, 
+  {
+    "imports": [
+      "cstu.TH.TH161"
+    ], 
+    "name": "cstu.SO.SO201"
+  }, 
+  {
+    "imports": [
+      "cstu.SC.SC185", 
+      "cstu.SC.SC173"
+    ], 
+    "name": "cstu.NS.NS132"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU120"
+    ], 
+    "name": "cstu.TA.TA395"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CJ.CJ321"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS397"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS398"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS395", 
+      "cstu.CS.CS341"
+    ], 
+    "name": "cstu.CS.CS348"
+  }, 
+  {
+    "imports": [
+      "cstu.SW.SW111", 
+      "cstu.MW.MW313"
+    ], 
+    "name": "cstu.CJ.CJ317"
+  }, 
+  {
+    "imports": [
+      "cstu.TH.TH161"
+    ], 
+    "name": "cstu.MW.MW313"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CJ.CJ316"
+  }, 
+  {
+    "imports": [
+      "cstu.SC.SC123", 
+      "cstu.TU.TU110"
+    ], 
+    "name": "cstu.MA.MA216"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS407"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS102"
+    ], 
+    "name": "cstu.CS.CS115"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS457"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS388"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS426"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS311", 
+      "cstu.TU.TU100"
+    ], 
+    "name": "cstu.CS.CS449"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS408"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CJ.CJ315"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS101"
+    ], 
+    "name": "cstu.CS.CS285"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS398", 
+      "cstu.CS.CS314", 
+      "cstu.CS.CS311"
+    ], 
+    "name": "cstu.CS.CS399"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.PY.PY218"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154", 
+      "cstu.CS.CS284"
+    ], 
+    "name": "cstu.CS.CS328"
+  }, 
+  {
+    "imports": [
+      "cstu.EL.EL172"
+    ], 
+    "name": "cstu.AT.AT366"
+  }, 
+  {
+    "imports": [
+      "cstu.EG.EG241"
+    ], 
+    "name": "cstu.CS.CS359"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.JC.JC201"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.TU.TU153"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU120", 
+      "cstu.AT.AT326"
+    ], 
+    "name": "cstu.ES.ES456"
+  }, 
+  {
+    "imports": [
+      "cstu.CJ.CJ315", 
+      "cstu.CS.CS341", 
+      "cstu.MA.MA211"
+    ], 
+    "name": "cstu.CS.CS469"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS301", 
+      "cstu.ST.ST216"
+    ], 
+    "name": "cstu.CS.CS479"
+  }, 
+  {
+    "imports": [
+      "cstu.MA.MA212"
+    ], 
+    "name": "cstu.EC.EC210"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS284", 
+      "cstu.CS.CS223"
+    ], 
+    "name": "cstu.CS.CS499"
+  }, 
+  {
+    "imports": [
+      "cstu.SC.SC173"
+    ], 
+    "name": "cstu.PY.PY211"
+  }, 
+  {
+    "imports": [
+      "cstu.EL.EL295"
+    ], 
+    "name": "cstu.PE.PE245"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU120", 
+      "cstu.MA.MA211", 
+      "cstu.CS.CS395"
+    ], 
+    "name": "cstu.CS.CS447"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS102"
+    ], 
+    "name": "cstu.ES.ES256"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS111"
+    ], 
+    "name": "cstu.AS.AS171"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS385"
+    ], 
+    "name": "cstu.TU.TU116"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS101"
+    ], 
+    "name": "cstu.PM.PM235"
+  }, 
+  {
+    "imports": [
+      "cstu.MW.MW314", 
+      "cstu.CJ.CJ317"
+    ], 
+    "name": "cstu.CS.CS496"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.PM.PM236"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU110", 
+      "cstu.EL.EL171", 
+      "cstu.CS.CS251"
+    ], 
+    "name": "cstu.EG.EG241"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS213", 
+      "cstu.TH.TH161"
+    ], 
+    "name": "cstu.AT.AT207"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.SW.SW366"
+  }, 
+  {
+    "imports": [
+      "cstu.SW.SW478", 
+      "cstu.SW.SW365", 
+      "cstu.ST.ST216"
+    ], 
+    "name": "cstu.MU.MU100"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS222"
+    ], 
+    "name": "cstu.PY.PY237"
+  }, 
+  {
+    "imports": [
+      "cstu.MA.MA212"
+    ], 
+    "name": "cstu.JC.JC200"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.IS.IS201"
+  }, 
+  {
+    "imports": [
+      "cstu.EL.EL295", 
+      "cstu.CS.CS101", 
+      "cstu.SC.SC173"
+    ], 
+    "name": "cstu.TU.TU115"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS284", 
+      "cstu.TH.TH161"
+    ], 
+    "name": "cstu.JP.JP171"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS214", 
+      "cstu.CS.CS486"
+    ], 
+    "name": "cstu.PY.PY226"
+  }, 
+  {
+    "imports": [
+      "cstu.EL.EL171"
+    ], 
+    "name": "cstu.PY.PY267"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.MA.MA217"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.MU.MU130"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.JC.JC260"
+  }, 
+  {
+    "imports": [
+      "cstu.EL.EL295", 
+      "cstu.CS.CS101", 
+      "cstu.AT.AT326"
+    ], 
+    "name": "cstu.FN.FN211"
+  }, 
+  {
+    "imports": [
+      "cstu.SW.SW365", 
+      "cstu.SC.SC185"
+    ], 
+    "name": "cstu.MU.MU135"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.TD.TD436"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.PM.PM215"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.MU.MU278"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS101", 
+      "cstu.CS.CS214", 
+      "cstu.SW.SW111"
+    ], 
+    "name": "cstu.MU.MU202"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.RT.RT326"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.MA.MA221"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.PE.PE240"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.DM.DM201"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS275"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CF.CF367"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CF.CF366"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.HS.HS266"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.HS.HS269"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.SW.SW224"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.PY.PY217"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.GE.GE311"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.SW.SW223"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.MW.MW318"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.GE.GE225"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.HS.HS356"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.AS.AS178"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.SW.SW489"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.SN.SN212"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.JP.JP172"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.SW.SW222"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.MU.MU275"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.AT.AT346"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.MU.MU277"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.ST.ST218"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS231"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.RE.RE333"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.TU.TU156"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.AN.AN201"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.JC.JC281"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.SW.SW467"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.TU.TU111"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.AS.AS177"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.DM.DM215"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.PC.PC286"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.FD.FD211"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.EL.EL202"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.AT.AT336"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.NS.NS112"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.DM.DM207"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CN.CN342"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.SW.SW486"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.SW.SW214"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.EL.EL231"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.HS.HS360"
+  }
+]

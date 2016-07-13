@@ -1,1009 +1,621 @@
 [
-    {
-        "imports": [
-            "TU154",
-            "SC135"
-        ],
-        "name": "MA211"
-    },
-    {
-        "imports": [],
-        "name": "CS102"
-    },
-    {
-        "imports": [],
-        "name": "CS101"
-    },
-    {
-        "imports": [],
-        "name": "TU154"
-    },
-    {
-        "imports": [
-            "CS101"
-        ],
-        "name": "TH161"
-    },
-    {
-        "imports": [
-            "CS102"
-        ],
-        "name": "CS111"
-    },
-    {
-        "imports": [
-            "CS111",
-            "CS102",
-            "MA211"
-        ],
-        "name": "CS213"
-    },
-    {
-        "imports": [
-            "TU154"
-        ],
-        "name": "EL171"
-    },
-    {
-        "imports": [
-            "TU154"
-        ],
-        "name": "SC135"
-    },
-    {
-        "imports": [
-            "TU154"
-        ],
-        "name": "PY228"
-    },
-    {
-        "imports": [
-            "EL171"
-        ],
-        "name": "EL172"
-    },
-    {
-        "imports": [
-            "TU154"
-        ],
-        "name": "SC185"
-    },
-    {
-        "imports": [
-            "TU154",
-            "SC135"
-        ],
-        "name": "TU110"
-    },
-    {
-        "imports": [
-            "CS111",
-            "MA211",
-            "TU154"
-        ],
-        "name": "CS223"
-    },
-    {
-        "imports": [
-            "TU154"
-        ],
-        "name": "TU120"
-    },
-    {
-        "imports": [],
-        "name": "ST216"
-    },
-    {
-        "imports": [
-            "SC135",
-            "MA211",
-            "CS111"
-        ],
-        "name": "CS284"
-    },
-    {
-        "imports": [
-            "EL171",
-            "EL172",
-            "MA211"
-        ],
-        "name": "EL295"
-    },
-    {
-        "imports": [
-            "TU154"
-        ],
-        "name": "TU130"
-    },
-    {
-        "imports": [
-            "MA211",
-            "TU154",
-            "EL171"
-        ],
-        "name": "MA212"
-    },
-    {
-        "imports": [],
-        "name": "MA332"
-    },
-    {
-        "imports": [],
-        "name": "CS314"
-    },
-    {
-        "imports": [
-            "CS111",
-            "TU154",
-            "MA211"
-        ],
-        "name": "CS222"
-    },
-    {
-        "imports": [
-            "MA211",
-            "EL171",
-            "SC135"
-        ],
-        "name": "CS214"
-    },
-    {
-        "imports": [],
-        "name": "CS261"
-    },
-    {
-        "imports": [
-            "CS223"
-        ],
-        "name": "CS251"
-    },
-    {
-        "imports": [
-            "CS284"
-        ],
-        "name": "CS281"
-    },
-    {
-        "imports": [],
-        "name": "CS341"
-    },
-    {
-        "imports": [],
-        "name": "EL395"
-    },
-    {
-        "imports": [],
-        "name": "CS301"
-    },
-    {
-        "imports": [],
-        "name": "CS311"
-    },
-    {
-        "imports": [],
-        "name": "CS374"
-    },
-    {
-        "imports": [],
-        "name": "CS302"
-    },
-    {
-        "imports": [],
-        "name": "CS401"
-    },
-    {
-        "imports": [],
-        "name": "CS342"
-    },
-    {
-        "imports": [],
-        "name": "CS105"
-    },
-    {
-        "imports": [],
-        "name": "HO201"
-    },
-    {
-        "imports": [],
-        "name": "CS395"
-    },
-    {
-        "imports": [],
-        "name": "CS402"
-    },
-    {
-        "imports": [],
-        "name": "CS365"
-    },
-    {
-        "imports": [
-            "PY228"
-        ],
-        "name": "EL070"
-    },
-    {
-        "imports": [
-            "MA211",
-            "EL171",
-            "EL172"
-        ],
-        "name": "AT326"
-    },
-    {
-        "imports": [
-            "TU154"
-        ],
-        "name": "TU100"
-    },
-    {
-        "imports": [],
-        "name": "CS289"
-    },
-    {
-        "imports": [],
-        "name": "CS385"
-    },
-    {
-        "imports": [
-            "TU154",
-            "SC135"
-        ],
-        "name": "AT316"
-    },
-    {
-        "imports": [],
-        "name": "CS326"
-    },
-    {
-        "imports": [
-            "SC135",
-            "EL171"
-        ],
-        "name": "TU122"
-    },
-    {
-        "imports": [],
-        "name": "CS288"
-    },
-    {
-        "imports": [],
-        "name": "CS487"
-    },
-    {
-        "imports": [
-            "CS111",
-            "MA211",
-            "TU154"
-        ],
-        "name": "CS211"
-    },
-    {
-        "imports": [],
-        "name": "CS489"
-    },
-    {
-        "imports": [
-            "CS102"
-        ],
-        "name": "SC123"
-    },
-    {
-        "imports": [
-            "CS102"
-        ],
-        "name": "SC173"
-    },
-    {
-        "imports": [],
-        "name": "CS296"
-    },
-    {
-        "imports": [
-            "CS486"
-        ],
-        "name": "CS488"
-    },
-    {
-        "imports": [
-            "EL171",
-            "CS102",
-            "TU154"
-        ],
-        "name": "SW111"
-    },
-    {
-        "imports": [],
-        "name": "CS367"
-    },
-    {
-        "imports": [],
-        "name": "SW365"
-    },
-    {
-        "imports": [],
-        "name": "CS486"
-    },
-    {
-        "imports": [
-            "EL171",
-            "CS102"
-        ],
-        "name": "SW212"
-    },
-    {
-        "imports": [],
-        "name": "CS409"
-    },
-    {
-        "imports": [
-            "CS102"
-        ],
-        "name": "SW221"
-    },
-    {
-        "imports": [
-            "CS102",
-            "CS111",
-            "TU154"
-        ],
-        "name": "CS215"
-    },
-    {
-        "imports": [],
-        "name": "CS386"
-    },
-    {
-        "imports": [],
-        "name": "CS366"
-    },
-    {
-        "imports": [],
-        "name": "CS295"
-    },
-    {
-        "imports": [],
-        "name": "CS377"
-    },
-    {
-        "imports": [
-            "SC135",
-            "MA211"
-        ],
-        "name": "LA209"
-    },
-    {
-        "imports": [],
-        "name": "CS456"
-    },
-    {
-        "imports": [],
-        "name": "CS467"
-    },
-    {
-        "imports": [
-            "CS111",
-            "TU110",
-            "CS102"
-        ],
-        "name": "CS300"
-    },
-    {
-        "imports": [],
-        "name": "SW478"
-    },
-    {
-        "imports": [
-            "CS102",
-            "TU110"
-        ],
-        "name": "SW213"
-    },
-    {
-        "imports": [
-            "TU154",
-            "MA211"
-        ],
-        "name": "MW314"
-    },
-    {
-        "imports": [],
-        "name": "BA291"
-    },
-    {
-        "imports": [
-            "MW313",
-            "TH161"
-        ],
-        "name": "SW475"
-    },
-    {
-        "imports": [
-            "CS295"
-        ],
-        "name": "CS396"
-    },
-    {
-        "imports": [],
-        "name": "CS427"
-    },
-    {
-        "imports": [],
-        "name": "ES356"
-    },
-    {
-        "imports": [],
-        "name": "CS387"
-    },
-    {
-        "imports": [],
-        "name": "CS286"
-    },
-    {
-        "imports": [],
-        "name": "CS297"
-    },
-    {
-        "imports": [],
-        "name": "CS429"
-    },
-    {
-        "imports": [],
-        "name": "CS446"
-    },
-    {
-        "imports": [
-            "CS102",
-            "CS111"
-        ],
-        "name": "SW335"
-    },
-    {
-        "imports": [],
-        "name": "CS356"
-    },
-    {
-        "imports": [
-            "CS105",
-            "MA211"
-        ],
-        "name": "HR201"
-    },
-    {
-        "imports": [
-            "SW335"
-        ],
-        "name": "CS459"
-    },
-    {
-        "imports": [
-            "TH161"
-        ],
-        "name": "SO201"
-    },
-    {
-        "imports": [
-            "SC185",
-            "SC173"
-        ],
-        "name": "NS132"
-    },
-    {
-        "imports": [
-            "TU120"
-        ],
-        "name": "TA395"
-    },
-    {
-        "imports": [],
-        "name": "CJ321"
-    },
-    {
-        "imports": [],
-        "name": "CS397"
-    },
-    {
-        "imports": [],
-        "name": "CS398"
-    },
-    {
-        "imports": [
-            "CS395",
-            "CS341"
-        ],
-        "name": "CS348"
-    },
-    {
-        "imports": [
-            "SW111",
-            "MW313"
-        ],
-        "name": "CJ317"
-    },
-    {
-        "imports": [
-            "TH161"
-        ],
-        "name": "MW313"
-    },
-    {
-        "imports": [],
-        "name": "CJ316"
-    },
-    {
-        "imports": [
-            "SC123",
-            "TU110"
-        ],
-        "name": "MA216"
-    },
-    {
-        "imports": [],
-        "name": "CS407"
-    },
-    {
-        "imports": [
-            "CS102"
-        ],
-        "name": "CS115"
-    },
-    {
-        "imports": [],
-        "name": "CS457"
-    },
-    {
-        "imports": [],
-        "name": "CS388"
-    },
-    {
-        "imports": [],
-        "name": "CS426"
-    },
-    {
-        "imports": [
-            "CS311",
-            "TU100"
-        ],
-        "name": "CS449"
-    },
-    {
-        "imports": [],
-        "name": "CS408"
-    },
-    {
-        "imports": [],
-        "name": "CJ315"
-    },
-    {
-        "imports": [
-            "CS101"
-        ],
-        "name": "CS285"
-    },
-    {
-        "imports": [
-            "CS398",
-            "CS314",
-            "CS311"
-        ],
-        "name": "CS399"
-    },
-    {
-        "imports": [],
-        "name": "PY218"
-    },
-    {
-        "imports": [
-            "TU154",
-            "CS284"
-        ],
-        "name": "CS328"
-    },
-    {
-        "imports": [
-            "EL172"
-        ],
-        "name": "AT366"
-    },
-    {
-        "imports": [
-            "EG241"
-        ],
-        "name": "CS359"
-    },
-    {
-        "imports": [],
-        "name": "JC201"
-    },
-    {
-        "imports": [],
-        "name": "TU153"
-    },
-    {
-        "imports": [
-            "TU120",
-            "AT326"
-        ],
-        "name": "ES456"
-    },
-    {
-        "imports": [
-            "CJ315",
-            "CS341",
-            "MA211"
-        ],
-        "name": "CS469"
-    },
-    {
-        "imports": [
-            "CS301",
-            "ST216"
-        ],
-        "name": "CS479"
-    },
-    {
-        "imports": [
-            "MA212"
-        ],
-        "name": "EC210"
-    },
-    {
-        "imports": [
-            "CS284",
-            "CS223"
-        ],
-        "name": "CS499"
-    },
-    {
-        "imports": [
-            "SC173"
-        ],
-        "name": "PY211"
-    },
-    {
-        "imports": [
-            "EL295"
-        ],
-        "name": "PE245"
-    },
-    {
-        "imports": [
-            "TU120",
-            "MA211",
-            "CS395"
-        ],
-        "name": "CS447"
-    },
-    {
-        "imports": [
-            "CS102"
-        ],
-        "name": "ES256"
-    },
-    {
-        "imports": [
-            "CS111"
-        ],
-        "name": "AS171"
-    },
-    {
-        "imports": [
-            "CS385"
-        ],
-        "name": "TU116"
-    },
-    {
-        "imports": [
-            "CS101"
-        ],
-        "name": "PM235"
-    },
-    {
-        "imports": [
-            "MW314",
-            "CJ317"
-        ],
-        "name": "CS496"
-    },
-    {
-        "imports": [],
-        "name": "PM236"
-    },
-    {
-        "imports": [
-            "TU110",
-            "EL171",
-            "CS251"
-        ],
-        "name": "EG241"
-    },
-    {
-        "imports": [
-            "CS213",
-            "TH161"
-        ],
-        "name": "AT207"
-    },
-    {
-        "imports": [],
-        "name": "SW366"
-    },
-    {
-        "imports": [
-            "SW478",
-            "SW365",
-            "ST216"
-        ],
-        "name": "MU100"
-    },
-    {
-        "imports": [
-            "CS222"
-        ],
-        "name": "PY237"
-    },
-    {
-        "imports": [
-            "MA212"
-        ],
-        "name": "JC200"
-    },
-    {
-        "imports": [],
-        "name": "IS201"
-    },
-    {
-        "imports": [
-            "EL295",
-            "CS101",
-            "SC173"
-        ],
-        "name": "TU115"
-    },
-    {
-        "imports": [
-            "CS284",
-            "TH161"
-        ],
-        "name": "JP171"
-    },
-    {
-        "imports": [
-            "CS214",
-            "CS486"
-        ],
-        "name": "PY226"
-    },
-    {
-        "imports": [
-            "EL171"
-        ],
-        "name": "PY267"
-    },
-    {
-        "imports": [],
-        "name": "MA217"
-    },
-    {
-        "imports": [],
-        "name": "MU130"
-    },
-    {
-        "imports": [],
-        "name": "JC260"
-    },
-    {
-        "imports": [
-            "EL295",
-            "CS101",
-            "AT326"
-        ],
-        "name": "FN211"
-    },
-    {
-        "imports": [
-            "SW365",
-            "SC185"
-        ],
-        "name": "MU135"
-    },
-    {
-        "imports": [],
-        "name": "TD436"
-    },
-    {
-        "imports": [],
-        "name": "PM215"
-    },
-    {
-        "imports": [],
-        "name": "MU278"
-    },
-    {
-        "imports": [
-            "CS101",
-            "CS214",
-            "SW111"
-        ],
-        "name": "MU202"
-    },
-    {
-        "imports": [],
-        "name": "RT326"
-    },
-    {
-        "imports": [],
-        "name": "MA221"
-    },
-    {
-        "imports": [],
-        "name": "PE240"
-    },
-    {
-        "imports": [],
-        "name": "DM201"
-    },
-    {
-        "imports": [],
-        "name": "CS275"
-    },
-    {
-        "imports": [],
-        "name": "CF367"
-    },
-    {
-        "imports": [],
-        "name": "CF366"
-    },
-    {
-        "imports": [],
-        "name": "HS266"
-    },
-    {
-        "imports": [],
-        "name": "HS269"
-    },
-    {
-        "imports": [],
-        "name": "SW224"
-    },
-    {
-        "imports": [],
-        "name": "PY217"
-    },
-    {
-        "imports": [],
-        "name": "GE311"
-    },
-    {
-        "imports": [],
-        "name": "SW223"
-    },
-    {
-        "imports": [],
-        "name": "MW318"
-    },
-    {
-        "imports": [],
-        "name": "GE225"
-    },
-    {
-        "imports": [],
-        "name": "HS356"
-    },
-    {
-        "imports": [],
-        "name": "AS178"
-    },
-    {
-        "imports": [],
-        "name": "SW489"
-    },
-    {
-        "imports": [],
-        "name": "SN212"
-    },
-    {
-        "imports": [],
-        "name": "JP172"
-    },
-    {
-        "imports": [],
-        "name": "SW222"
-    },
-    {
-        "imports": [],
-        "name": "MU275"
-    },
-    {
-        "imports": [],
-        "name": "AT346"
-    },
-    {
-        "imports": [],
-        "name": "MU277"
-    },
-    {
-        "imports": [],
-        "name": "ST218"
-    },
-    {
-        "imports": [],
-        "name": "CS231"
-    },
-    {
-        "imports": [],
-        "name": "RE333"
-    },
-    {
-        "imports": [],
-        "name": "TU156"
-    },
-    {
-        "imports": [],
-        "name": "AN201"
-    },
-    {
-        "imports": [],
-        "name": "JC281"
-    },
-    {
-        "imports": [],
-        "name": "SW467"
-    },
-    {
-        "imports": [],
-        "name": "TU111"
-    },
-    {
-        "imports": [],
-        "name": "AS177"
-    },
-    {
-        "imports": [],
-        "name": "DM215"
-    },
-    {
-        "imports": [],
-        "name": "PC286"
-    },
-    {
-        "imports": [],
-        "name": "FD211"
-    },
-    {
-        "imports": [],
-        "name": "EL202"
-    },
-    {
-        "imports": [],
-        "name": "AT336"
-    },
-    {
-        "imports": [],
-        "name": "NS112"
-    },
-    {
-        "imports": [],
-        "name": "DM207"
-    },
-    {
-        "imports": [],
-        "name": "CN342"
-    },
-    {
-        "imports": [],
-        "name": "SW486"
-    },
-    {
-        "imports": [],
-        "name": "SW214"
-    },
-    {
-        "imports": [],
-        "name": "EL231"
-    },
-    {
-        "imports": [],
-        "name": "HS360"
-    }
+  {
+    "imports": [
+      "cstu.TU.TU154", 
+      "cstu.SC.SC135"
+    ], 
+    "name": "cstu.MA.MA211"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS102"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS101"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.TU.TU154"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS101"
+    ], 
+    "name": "cstu.TH.TH161"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS102"
+    ], 
+    "name": "cstu.CS.CS111"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS111", 
+      "cstu.CS.CS102", 
+      "cstu.MA.MA211"
+    ], 
+    "name": "cstu.CS.CS213"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.EL.EL171"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.SC.SC135"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.PY.PY228"
+  }, 
+  {
+    "imports": [
+      "cstu.EL.EL171"
+    ], 
+    "name": "cstu.EL.EL172"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.SC.SC185"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154", 
+      "cstu.SC.SC135"
+    ], 
+    "name": "cstu.TU.TU110"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS111", 
+      "cstu.MA.MA211", 
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.CS.CS223"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.TU.TU120"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.ST.ST216"
+  }, 
+  {
+    "imports": [
+      "cstu.SC.SC135", 
+      "cstu.MA.MA211", 
+      "cstu.CS.CS111"
+    ], 
+    "name": "cstu.CS.CS284"
+  }, 
+  {
+    "imports": [
+      "cstu.EL.EL171", 
+      "cstu.EL.EL172", 
+      "cstu.MA.MA211"
+    ], 
+    "name": "cstu.EL.EL295"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.TU.TU130"
+  }, 
+  {
+    "imports": [
+      "cstu.MA.MA211", 
+      "cstu.TU.TU154", 
+      "cstu.EL.EL171"
+    ], 
+    "name": "cstu.MA.MA212"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS314"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS111", 
+      "cstu.TU.TU154", 
+      "cstu.MA.MA211"
+    ], 
+    "name": "cstu.CS.CS222"
+  }, 
+  {
+    "imports": [
+      "cstu.MA.MA211", 
+      "cstu.EL.EL171", 
+      "cstu.SC.SC135"
+    ], 
+    "name": "cstu.CS.CS214"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS223"
+    ], 
+    "name": "cstu.CS.CS251"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS284"
+    ], 
+    "name": "cstu.CS.CS281"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS341"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS301"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS311"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS105"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS395"
+  }, 
+  {
+    "imports": [
+      "cstu.PY.PY228"
+    ], 
+    "name": "cstu.EL.EL070"
+  }, 
+  {
+    "imports": [
+      "cstu.MA.MA211", 
+      "cstu.EL.EL171", 
+      "cstu.EL.EL172"
+    ], 
+    "name": "cstu.AT.AT326"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.TU.TU100"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS385"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154", 
+      "cstu.SC.SC135"
+    ], 
+    "name": "cstu.AT.AT316"
+  }, 
+  {
+    "imports": [
+      "cstu.SC.SC135", 
+      "cstu.EL.EL171"
+    ], 
+    "name": "cstu.TU.TU122"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS111", 
+      "cstu.MA.MA211", 
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.CS.CS211"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS102"
+    ], 
+    "name": "cstu.SC.SC123"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS102"
+    ], 
+    "name": "cstu.SC.SC173"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS486"
+    ], 
+    "name": "cstu.CS.CS488"
+  }, 
+  {
+    "imports": [
+      "cstu.EL.EL171", 
+      "cstu.CS.CS102", 
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.SW.SW111"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.SW.SW365"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS486"
+  }, 
+  {
+    "imports": [
+      "cstu.EL.EL171", 
+      "cstu.CS.CS102"
+    ], 
+    "name": "cstu.SW.SW212"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS102"
+    ], 
+    "name": "cstu.SW.SW221"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS102", 
+      "cstu.CS.CS111", 
+      "cstu.TU.TU154"
+    ], 
+    "name": "cstu.CS.CS215"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS295"
+  }, 
+  {
+    "imports": [
+      "cstu.SC.SC135", 
+      "cstu.MA.MA211"
+    ], 
+    "name": "cstu.LA.LA209"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS111", 
+      "cstu.TU.TU110", 
+      "cstu.CS.CS102"
+    ], 
+    "name": "cstu.CS.CS300"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.SW.SW478"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS102", 
+      "cstu.TU.TU110"
+    ], 
+    "name": "cstu.SW.SW213"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154", 
+      "cstu.MA.MA211"
+    ], 
+    "name": "cstu.MW.MW314"
+  }, 
+  {
+    "imports": [
+      "cstu.MW.MW313", 
+      "cstu.TH.TH161"
+    ], 
+    "name": "cstu.SW.SW475"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS295"
+    ], 
+    "name": "cstu.CS.CS396"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS102", 
+      "cstu.CS.CS111"
+    ], 
+    "name": "cstu.SW.SW335"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS105", 
+      "cstu.MA.MA211"
+    ], 
+    "name": "cstu.HR.HR201"
+  }, 
+  {
+    "imports": [
+      "cstu.SW.SW335"
+    ], 
+    "name": "cstu.CS.CS459"
+  }, 
+  {
+    "imports": [
+      "cstu.TH.TH161"
+    ], 
+    "name": "cstu.SO.SO201"
+  }, 
+  {
+    "imports": [
+      "cstu.SC.SC185", 
+      "cstu.SC.SC173"
+    ], 
+    "name": "cstu.NS.NS132"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU120"
+    ], 
+    "name": "cstu.TA.TA395"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CS.CS398"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS395", 
+      "cstu.CS.CS341"
+    ], 
+    "name": "cstu.CS.CS348"
+  }, 
+  {
+    "imports": [
+      "cstu.SW.SW111", 
+      "cstu.MW.MW313"
+    ], 
+    "name": "cstu.CJ.CJ317"
+  }, 
+  {
+    "imports": [
+      "cstu.TH.TH161"
+    ], 
+    "name": "cstu.MW.MW313"
+  }, 
+  {
+    "imports": [
+      "cstu.SC.SC123", 
+      "cstu.TU.TU110"
+    ], 
+    "name": "cstu.MA.MA216"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS102"
+    ], 
+    "name": "cstu.CS.CS115"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS311", 
+      "cstu.TU.TU100"
+    ], 
+    "name": "cstu.CS.CS449"
+  }, 
+  {
+    "imports": [], 
+    "name": "cstu.CJ.CJ315"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS101"
+    ], 
+    "name": "cstu.CS.CS285"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS398", 
+      "cstu.CS.CS314", 
+      "cstu.CS.CS311"
+    ], 
+    "name": "cstu.CS.CS399"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU154", 
+      "cstu.CS.CS284"
+    ], 
+    "name": "cstu.CS.CS328"
+  }, 
+  {
+    "imports": [
+      "cstu.EL.EL172"
+    ], 
+    "name": "cstu.AT.AT366"
+  }, 
+  {
+    "imports": [
+      "cstu.EG.EG241"
+    ], 
+    "name": "cstu.CS.CS359"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU120", 
+      "cstu.AT.AT326"
+    ], 
+    "name": "cstu.ES.ES456"
+  }, 
+  {
+    "imports": [
+      "cstu.CJ.CJ315", 
+      "cstu.CS.CS341", 
+      "cstu.MA.MA211"
+    ], 
+    "name": "cstu.CS.CS469"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS301", 
+      "cstu.ST.ST216"
+    ], 
+    "name": "cstu.CS.CS479"
+  }, 
+  {
+    "imports": [
+      "cstu.MA.MA212"
+    ], 
+    "name": "cstu.EC.EC210"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS284", 
+      "cstu.CS.CS223"
+    ], 
+    "name": "cstu.CS.CS499"
+  }, 
+  {
+    "imports": [
+      "cstu.SC.SC173"
+    ], 
+    "name": "cstu.PY.PY211"
+  }, 
+  {
+    "imports": [
+      "cstu.EL.EL295"
+    ], 
+    "name": "cstu.PE.PE245"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU120", 
+      "cstu.MA.MA211", 
+      "cstu.CS.CS395"
+    ], 
+    "name": "cstu.CS.CS447"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS102"
+    ], 
+    "name": "cstu.ES.ES256"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS111"
+    ], 
+    "name": "cstu.AS.AS171"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS385"
+    ], 
+    "name": "cstu.TU.TU116"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS101"
+    ], 
+    "name": "cstu.PM.PM235"
+  }, 
+  {
+    "imports": [
+      "cstu.MW.MW314", 
+      "cstu.CJ.CJ317"
+    ], 
+    "name": "cstu.CS.CS496"
+  }, 
+  {
+    "imports": [
+      "cstu.TU.TU110", 
+      "cstu.EL.EL171", 
+      "cstu.CS.CS251"
+    ], 
+    "name": "cstu.EG.EG241"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS213", 
+      "cstu.TH.TH161"
+    ], 
+    "name": "cstu.AT.AT207"
+  }, 
+  {
+    "imports": [
+      "cstu.SW.SW478", 
+      "cstu.SW.SW365", 
+      "cstu.ST.ST216"
+    ], 
+    "name": "cstu.MU.MU100"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS222"
+    ], 
+    "name": "cstu.PY.PY237"
+  }, 
+  {
+    "imports": [
+      "cstu.MA.MA212"
+    ], 
+    "name": "cstu.JC.JC200"
+  }, 
+  {
+    "imports": [
+      "cstu.EL.EL295", 
+      "cstu.CS.CS101", 
+      "cstu.SC.SC173"
+    ], 
+    "name": "cstu.TU.TU115"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS284", 
+      "cstu.TH.TH161"
+    ], 
+    "name": "cstu.JP.JP171"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS214", 
+      "cstu.CS.CS486"
+    ], 
+    "name": "cstu.PY.PY226"
+  }, 
+  {
+    "imports": [
+      "cstu.EL.EL171"
+    ], 
+    "name": "cstu.PY.PY267"
+  }, 
+  {
+    "imports": [
+      "cstu.EL.EL295", 
+      "cstu.CS.CS101", 
+      "cstu.AT.AT326"
+    ], 
+    "name": "cstu.FN.FN211"
+  }, 
+  {
+    "imports": [
+      "cstu.SW.SW365", 
+      "cstu.SC.SC185"
+    ], 
+    "name": "cstu.MU.MU135"
+  }, 
+  {
+    "imports": [
+      "cstu.CS.CS101", 
+      "cstu.CS.CS214", 
+      "cstu.SW.SW111"
+    ], 
+    "name": "cstu.MU.MU202"
+  }
 ]
